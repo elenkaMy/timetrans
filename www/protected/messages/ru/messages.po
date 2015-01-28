@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-06-07 15:38+0300\n"
+"PO-Revision-Date: 2013-06-07 16:08+0300\n"
+"Last-Translator: SeynovAM <sejnovalexey@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Language: ru\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgctxt "core"
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> or <a href=\"http://www.google."
+"com/chromeframe/?redirect=true\">activate Google Chrome Frame</a> to improve "
+"your experience."
+msgstr ""
+"Вы используете <strong>устаревший</strong> браузер. Пожалуйста, <a href="
+"\"http://browsehappy.com/\">обновите свой браузер</a> или <a href=\"http://"
+"www.google.com/chromeframe/?redirect=true\">подключите Google Chrome Frame</"
+"a> для удобной работы.<br />"
+
+msgctxt "core"
+msgid "User name or email"
+msgstr "Логин или e-mail"
+
+msgctxt "core"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "core"
+msgid "Remember me next time"
+msgstr "Запомнить меня на этом компьютере"
+
+msgctxt "core"
+msgid "Incorrect username or password."
+msgstr "Неправильный логин или пароль."
+
+msgctxt "core"
+msgid "Login"
+msgstr "Войти"
+
+msgctxt "core"
+msgid "Login Box"
+msgstr "Авторизация"
+
+msgctxt "user"
+msgid "Username"
+msgstr "Логин"
+
+msgctxt "user"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "user"
+msgid "Confirm Password"
+msgstr "Подтверждение пароля"
+
+msgctxt "user"
+msgid "Is Admin"
+msgstr "Админ"
+
+msgctxt "user"
+msgid "Created At"
+msgstr "Создан"
+
+msgctxt "user"
+msgid "Updated At"
+msgstr "Изменен"
+
+msgctxt "admin"
+msgid "Operations"
+msgstr "Действия"
+
+msgctxt "admin"
+msgid "Home"
+msgstr "Главная"
+
+msgctxt "admin"
+msgid "Users"
+msgstr "Пользователи"
+
+msgctxt "admin"
+msgid "Logout"
+msgstr "Выход"
+
+msgctxt "admin"
+msgid "Welcome to Admin Panel"
+msgstr "Добро пожаловать в админ панель"
+
+msgctxt "admin"
+msgid "Fields with {required} are required."
+msgstr "Поля, обозначенные {required}, обязательны для заполнения."
+
+msgctxt "admin"
+msgid "Save"
+msgstr "Сохранить"
+
+msgctxt "admin"
+msgid "Apply"
+msgstr "Применить"
+
+msgctxt "admin"
+msgid "Create"
+msgstr "Создать"
+
+msgctxt "admin"
+msgid "Save and View"
+msgstr "Сохранить и просмотреть"
+
+msgctxt "admin"
+msgid "Save and Create"
+msgstr "Сохранить и добавить еще"
+
+msgctxt "admin"
+msgid "Update"
+msgstr "Редактировать"
+
+msgctxt "admin"
+msgid "List User"
+msgstr "Список пользователей"
+
+msgctxt "admin"
+msgid "Create User"
+msgstr "Создать пользователя"
+
+msgctxt "admin"
+msgid "View User"
+msgstr "Просмотреть пользователя"
+
+msgctxt "admin"
+msgid "Update User"
+msgstr "Редактировать пользователя"
+
+msgctxt "admin"
+msgid "Delete User"
+msgstr "Удалить пользователя"
+
+msgctxt "admin"
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgctxt "admin"
+msgid "Settings"
+msgstr "Настройки"
+
+msgctxt "admin"
+msgid "List Setting"
+msgstr "Список настроек"
+
+msgctxt "admin"
+msgid "View Setting"
+msgstr "Просмотреть настройку"
+
+msgctxt "admin"
+msgid "Update Setting"
+msgstr "Редактировать настройку"
+
+msgctxt "setting"
+msgid "Label"
+msgstr "Название настройки"
+
+msgctxt "setting"
+msgid "Value"
+msgstr "Значение"
+
+msgctxt "setting"
+msgid "Setting Type"
+msgstr "Тип настройки"
+
+msgctxt "setting"
+msgid "Can Be Empty"
+msgstr "Может ли иметь пустое значение"
+
+msgctxt "setting"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "setting"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "setting"
+msgid "string"
+msgstr "строка"
+
+msgctxt "setting"
+msgid "text"
+msgstr "текст"
+
+msgctxt "setting"
+msgid "url"
+msgstr "url"
+
+msgctxt "setting"
+msgid "number"
+msgstr "число"
+
+msgctxt "setting"
+msgid "integer"
+msgstr "целое число"
+
+msgctxt "setting"
+msgid "email"
+msgstr "email"
+
+msgctxt "admin"
+msgid "Pages"
+msgstr "Страницы"
+
+msgctxt "admin"
+msgid "List Page"
+msgstr "Список страниц"
+
+msgctxt "admin"
+msgid "Create Page"
+msgstr "Создать страницу"
+
+msgctxt "admin"
+msgid "View Page"
+msgstr "Просмотреть страницу"
+
+msgctxt "admin"
+msgid "Update Page"
+msgstr "Редактировать страницу"
+
+msgctxt "admin"
+msgid "Delete Page"
+msgstr "Удалить страницу"
+
+msgctxt "admin"
+msgid "View Page On Web Site"
+msgstr "Посмотреть страницу на сайте"
+
+msgctxt "admin"
+msgid "Open on web site"
+msgstr "Открыть на сайте"
+
+msgctxt "admin"
+msgid "Seo"
+msgstr "Seo поля"
+
+msgctxt "admin"
+msgid "Basic"
+msgstr "Основные поля"
+
+msgctxt "page"
+msgid "Parent Page"
+msgstr "Вышестоящая страница"
+
+msgctxt "page"
+msgid "Page Name"
+msgstr "Название страницы"
+
+msgctxt "admin"
+msgid "Alias"
+msgstr "ЧПУ"
+
+msgctxt "admin"
+msgid "Created At"
+msgstr "Создан"
+
+msgctxt "admin"
+msgid "Updated At"
+msgstr "Изменен"
+
+msgctxt "admin"
+msgid "Seo Title"
+msgstr "Seo заголовок"
+
+msgctxt "admin"
+msgid "Seo Description"
+msgstr "Seo описание"
+
+msgctxt "admin"
+msgid "Seo Keywords"
+msgstr "Seo ключевые слова"
+
+msgctxt "admin"
+msgid "Position"
+msgstr "Позиция"
+
+msgctxt "page"
+msgid "Short Content"
+msgstr "Краткое содержание"
+
+msgctxt "admin"
+msgid "Content"
+msgstr "Содержание"
+
+msgctxt "admin"
+msgid "Menu"
+msgstr "Меню"
+
+msgctxt "admin"
+msgid "List Menu"
+msgstr "Список меню"
+
+msgctxt "menu"
+msgid "Label"
+msgstr "Название меню"
+
+msgctxt "admin"
+msgid "Menu Items"
+msgstr "Пункты меню"
+
+msgctxt "admin"
+msgid "List MenuItem"
+msgstr "Список пунктов меню"
+
+msgctxt "admin"
+msgid "Create MenuItem"
+msgstr "Создать пункт меню"
+
+msgctxt "admin"
+msgid "View MenuItem"
+msgstr "Просмотреть пункт меню"
+
+msgctxt "admin"
+msgid "Update MenuItem"
+msgstr "Редактировать пункт меню"
+
+msgctxt "admin"
+msgid "Delete MenuItem"
+msgstr "Удалить пункт меню"
+
+msgctxt "admin"
+msgid "View"
+msgstr "Просмотреть"
+
+msgctxt "menuItem"
+msgid "Parent Item"
+msgstr "Вышестоящий пункт меню"
+
+msgctxt "menuItem"
+msgid "Item Name"
+msgstr "Название"
+
+msgctxt "menuItem"
+msgid "Item Type"
+msgstr "Тип"
+
+msgctxt "menuItem"
+msgid "Value"
+msgstr "Значение"
+
+msgctxt "admin"
+msgid "Html Options"
+msgstr "Html опции"
+
+msgctxt "menuItem"
+msgid "Link Options"
+msgstr "Опции ссылки"
+
+msgctxt "menuItem"
+msgid "Item Options"
+msgstr "Опции элемента"
+
+msgctxt "admin"
+msgid "Static Page"
+msgstr "Статическая страница"
+
+msgctxt "admin"
+msgid "Text"
+msgstr "Текст"
+
+msgctxt "admin"
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+msgctxt "admin"
+msgid "Preview displays only on this page. Are you sure?"
+msgstr "Предварительный просмотр осуществляется только на данной странице. Вы уверены?"
+
+msgctxt "admin"
+msgid "Files"
+msgstr "Файлы"
+
+msgctxt "file"
+msgid "{attribute}: count of uploaded files is too small (minimum is {min} elements)."
+msgstr "{attribute}: кол-во загруженных файлов должно быть не менее {min}."
+
+msgctxt "file"
+msgid "{attribute}: count of uploaded files is too large (maximum is {max} elements)."
+msgstr "{attribute}: кол-во загруженных файлов должно быть не более {max}."
+
+msgctxt "file"
+msgid "{attribute}: count of uploaded files is wrong (should be {length} elements)."
+msgstr "{attribute}: неверное кол-во загруженных файлов (должно быть {length})."
+
+msgctxt "admin"
+msgid "File"
+msgstr "Файл"
+
+msgctxt "admin"
+msgid "Choose file"
+msgstr "Выберите файл"
+
+msgctxt "admin"
+msgid "Add files"
+msgstr "Добавить файлы"
+
+msgctxt "admin"
+msgid "Start upload"
+msgstr "Начать загрузку"
+
+msgctxt "admin"
+msgid "Cancel upload"
+msgstr "Отменить загрузку"
+
+msgctxt "admin"
+msgid "Delete"
+msgstr "Удалить"
+
+msgctxt "admin"
+msgid "Start"
+msgstr "Начать"
+
+msgctxt "admin"
+msgid "Cancel"
+msgstr "Отменить"
+
+msgctxt "admin"
+msgid "Shop"
+msgstr "Магазин"
+
+msgctxt "admin"
+msgid "Product Categories"
+msgstr "Категории товаров"
+
+msgctxt "admin"
+msgid "Product Category"
+msgstr "Категория товаров"
+
+msgctxt "admin"
+msgid "Product"
+msgstr "Товар"
+
+msgctxt "productCategory"
+msgid "Parent Category"
+msgstr "Вышестоящая категория"
+
+msgctxt "productCategory"
+msgid "Category Name"
+msgstr "Название категории"
+
+msgctxt "admin"
+msgid "Create Product Category"
+msgstr "Создать категорию товара"
+
+msgctxt "admin"
+msgid "Update Product Category"
+msgstr "Редактировать категорию товара"
+
+msgctxt "admin"
+msgid "Delete Product Category"
+msgstr "Удалить категорию товара"
+
+msgctxt "admin"
+msgid "View Product Category"
+msgstr "Просмотреть категорию товара"
+
+msgctxt "admin"
+msgid "Short Content"
+msgstr "Краткое содержание"
+
+msgctxt "product"
+msgid "Product Name"
+msgstr "Название товара"
+
+msgctxt "product"
+msgid "Category"
+msgstr "Категория товара"
+
+msgctxt "product"
+msgid "Price"
+msgstr "Цена"
+
+msgctxt "admin"
+msgid "Create Product"
+msgstr "Создать товар"
+
+msgctxt "admin"
+msgid "Update Product"
+msgstr "Редактировать товар"
+
+msgctxt "admin"
+msgid "Delete Product"
+msgstr "Удалить товар"
+
+msgctxt "admin"
+msgid "View Product"
+msgstr "Просмотреть товар"
+
+msgctxt "admin"
+msgid "List Product"
+msgstr "Список товаров"
+
+msgctxt "admin"
+msgid "List Product Category"
+msgstr "Список категорий товаров"
+
+msgctxt "admin"
+msgid "Products"
+msgstr "Товары"
+
+msgctxt "admin"
+msgid "Visible"
+msgstr "Отображать на главной странице"
+
+msgctxt "admin"
+msgid "Pack File"
+msgstr "Галерея"
+
+msgctxt "core"
+msgid "Telephone"
+msgstr "Телефон"
+
+msgctxt "admin"
+msgid "Gallery"
+msgstr "Изображения"
+
+msgctxt "product"
+msgid "Article"
+msgstr "Артикул"

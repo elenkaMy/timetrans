@@ -1,0 +1,64 @@
+<?php
+
+$mainConfig = require(dirname(__FILE__).'/main.php');
+
+$mainConfig['params']['update-command'] = array(
+    'afterUpdate' => 'yiic user changePassword --nameOrEmail=admin --newPassword=admin',
+);
+
+return CMap::mergeArray(
+    $mainConfig,
+    array(
+        'components'    =>  array(
+            /* you can set custom caching, e.g. CFileCache, CMemCache, CDbCache, CApcCache,..
+            'cache' =>  array(
+                'class' =>  'CDummyCache',
+            ),
+            */
+            'db'    =>  array(
+                'connectionString'  =>  'mysql:host=localhost;dbname=database',
+                'username'          =>  'root',
+                'password'          =>  '',
+                'tablePrefix'       =>  '', // must be defined even if empty
+                //'enableProfiling'   =>  true,
+                //'schemaCachingDuration' =>  3600,
+                //'enableParamLogging'    =>  true,
+            ),
+            // uncomment the following to show log messages on web pages
+            /*
+            'log'   =>  array(
+                'routes'    =>  array(
+                    array(
+                        'class'                 =>  'application.components.web.ProfileLogRoute',
+                        'report'                =>  'summary', // or 'callstack'
+                        //'showInJsonResponses'   =>  true,
+                    ),
+                    array(
+                        'class'                 =>  'application.components.web.WebLogRoute',
+                        //'showInJsonResponses'   =>  true,
+                        //'showInFireBug'         =>  true,
+                        //'ignoreAjaxInFireBug'   =>  false,
+                        //'ignoreFlashInFireBug'  =>  false,
+                        //'collapsedInFireBug'    =>  true,
+                    ),
+                ),
+            ),
+            */
+        ),
+        'modules'   =>  array(
+        // uncomment the following to enable the Gii tool
+        /*
+            'gii'   =>  array(
+                'class'     =>  'system.gii.GiiModule',
+                'password'  =>  '1234',
+                // If removed, Gii defaults to localhost only. Edit carefully to taste.
+                'ipFilters' =>  array('127.0.0.1','::1'),
+                'generatorPaths'    =>  array(
+                    'application.gii',
+                    'bootstrap.gii',
+                ),
+            ),
+        */
+        ),
+    )
+);
